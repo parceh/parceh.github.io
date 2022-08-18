@@ -8,13 +8,15 @@ nav_order: 1
 
 # Welcome!
 
-Hello! I'm Pia Arce. Welcome to my website. Here you can find ... 
+
+Hi! I'm Pia Arce, welcome to my website! I am an Economic Consultant with an M.Sc. in Economics. 
 {: .fs-6 .fw-300 }
 
 <img src="/assets/images/ilikehike1.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
 
-BlaBla BLa .. 
+I created this website so you can know me better. In [About/CV](/about/cv) you will find some information about my background, work, and professional interests. In [Resources](/resources) you will find different scripts and documents for data analysis that I have created either for my previous jobs or for practicing my skills. In [Posts](/posts)  you can find links to podcasts, articles, and other interesting and fun external sources. 
 
-## About this site
+This website is designed to be public, so please feel comfortable using any resource that you find useful for your own work. 
+That’s all! Feel free to explore my website. If you want to contact me, you can do it to parcehasbun@gmail.com!
 
-what can you find in this website here 
+
