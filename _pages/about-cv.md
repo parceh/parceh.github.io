@@ -8,7 +8,7 @@ nav_order: 2
 # About me
 
 ## Experience
-I'm a Master (M.Sc.) in Economics at the University of Amsterdam. I have 6 years of experience working as a Researcher/Consultant in economic research centers, ministries, and consulting firms in Latin America, Europe, and the U.S.. In particular,  I've worked at the Universidad del Desarrollo, the Ministry of Social Development of Chile, and the University of Zurich.
+I'm a Master (M.Sc.) in Economics at the University of Amsterdam. I have 6 years of experience working as a Researcher/Consultant in economic research centers, ministries, and consulting firms in Latin America, Europe, and the U.S.. In particular, I've worked in places such as the Ministry of Social Development of Chile, the University of Zurich, and Consultancy Firms.
 ## Expertise
 I enjoy working in the area of governmental and private advisory on topics related to health, employment, and other policies. 
 ## Skills
