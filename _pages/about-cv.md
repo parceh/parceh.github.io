@@ -7,8 +7,18 @@ nav_order: 2
 
 # About me
 
-I'm a Master in Economics at the University of Amsterdam. I've worked as a Researcher in Private and Public institutions at University linked economic research centers, ministries, and consulting firms in Latin America and Europe such as Universidad del Desarrollo, Ministry of Social Development, and the University of Zurich.
+## Experience
+I'm a Master (M.Sc.) in Economics at the University of Amsterdam. I have 6 years of experience working as a Researcher/Consultant in economic research centers, ministries, and consulting firms in Latin America and Europe. In particular,  I've worked at the Universidad del Desarrollo, the Ministry of Social Development of Chile, and the University of Zurich.
+## Expertise
+I enjoy working in the area of governmental and private advisory on topics related to health, employment, and other policies. 
+## Skills
+Over the years, I've applied my statistics and economics knowledge in the data analysis of:
+- **Financial and economic indexes** published in specialized newspapers in Chile, aiming at providing inputs for private decision-making. 
+- **Policy briefs** related to health and employment policies that aim to inform policymakers and the general public.
+- **Program evaluations** aiming to evaluate the impact of auditing health institutions in developing countries.
+- **Academic research** on diverse topics such as employment dynamics, the economic consequences of infancy-related decisions, and the nature versus nurture determinants of health and economic outcomes.
 
-I enjoy working in the area of governmental advisory and public policy on topics related to health, inequality, and labor policy. 
+Also, I'm proficient in software for data analysis such as Stata, R, and Python.  
+FYI: I'm fluent in English and Spanish. 
 
 Add my public CV [here]
