@@ -9,7 +9,8 @@ nav_order: 1
 # Welcome!
 
 
-Hi! I'm Pia Arce, welcome to my website! I am an Economic Consultant with an M.Sc. in Economics. 
+Hi! I'm Pia Arce, welcome to my website! 
+I am an Economic Consultant with an M.Sc. in Economics. My areas of interest are Government advisory, Health, Inequality and Public Plocy. 
 {: .fs-6 .fw-300 }
 
 <img src="/assets/images/ilikehike1.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
