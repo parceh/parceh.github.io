@@ -10,6 +10,7 @@ nav_order: 1
 
 
 Hi! I'm Pia Arce, welcome to my website! 
+
 I am an Economic Consultant with an M.Sc. in Economics. My areas of interest are Government advisory, Health, Inequality and Public Plocy. 
 {: .fs-6 .fw-300 }
 
