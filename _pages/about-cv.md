@@ -21,4 +21,3 @@ Over the years, I've applied my statistics and economics knowledge in the data a
 Also, I'm proficient in software for data analysis such as Stata, R, and Python.  
 FYI: I'm fluent in English and Spanish. 
 
-Add my public CV [here]
