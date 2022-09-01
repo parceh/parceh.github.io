@@ -7,11 +7,12 @@ nav_order: 3
 
 # Resources
 
-my documents here {: .fs-6 .fw-300 }
+In this page you can find diferent resources that I want to share.  
+{: .fs-6 .fw-300 }
 
 
 ## Software
-my code examples 
+Pia hasn't posted anything yet...
 
 ## Documents
-my documents 
+Pia hasn't posted anything yet... 
