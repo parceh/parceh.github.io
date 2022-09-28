@@ -1,13 +1,13 @@
-If you, like me, love to stay informed about international news and find Twitter a bit too much (for your mental health), then you might want to listen to some of these podcasts:
+If you, like me, love to stay informed about international news and find Twitter a little bit too much (for your mental health), then you might want to listen to some of these podcasts:
 
-- **Pods Save the world**: Excellent podcast about US foreign policy. Tom Vietor and Ben Rhodes are hilarious. 
+- **Pod Save the world**: Excellent podcast about US foreign policy. Tommy Vietor and Ben Rhodes are hilarious. 
 
-- **The Daily from the New York Times**: Who doesn't listen to the Daily? 30-minute story with a relevant topic of the week.   
+- **The Daily from the New York Times**: Who doesn't listen to the Daily? 30-minute story with a new relevant topic every morning.   
  
-- **Global News Podcast**: Great summary of news and one of the few podcasts that frequently feature news from Africa and Asia.
+- **Global News Podcast - From BBC**: Great summary of news and one of the few podcasts that frequently feature news from Africa and Asia.
  
-- **The Ezra Klein Show**: In-depth interviews about a hot topic. Also from The New York Times. 
+- **The Ezra Klein Show**: In-depth interviews about a hot topics. Also from The New York Times. 
  
-- **EU Confidential - Politico**: weekly 30 minutes podcast with Europe News. 
+- **EU Confidential - Politico**: weekly 30-minute podcast with Europe news. 
  
 - **Today Explained**: Eclectic variety of topics to detangle in 30 minutes.     
