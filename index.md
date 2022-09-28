@@ -9,7 +9,7 @@ nav_order: 1
 # Welcome!
 
 
-Hi! I'm Pia Arce, welcome to my website! 
+Hi! I'm Pia Arce (She/Her), welcome to my website! 
 {: .fs-6 .fw-300 }
 
 I am an Economic Consultant with an M.Sc. in Economics. My areas of interest are Government advisory, Private Economic Consultancy, Health, Employment, and Public Policy. 
