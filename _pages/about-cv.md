@@ -19,5 +19,5 @@ Over the years, I've applied my statistics and economics knowledge in the data a
 - **Academic research** on diverse topics such as employment dynamics, the economic consequences of infancy-related decisions, and the nature versus nurture determinants of health and economic outcomes.
 
 Also, I'm proficient in software for data analysis such as Stata, R, and Python.  
-FYI: I'm fluent in English and Spanish. 
+FYI: I'm fluent in English and Spanish, and I've struggled with my beginner German for many years. 
 
