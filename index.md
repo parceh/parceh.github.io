@@ -15,7 +15,7 @@ Hi! I'm Pia (She/Her), welcome to my website!
 I am an Economist and Consultant with an M.Sc. in Economics. My areas of interest are Government advisory, Private Economic Consultancy, Health, Employment, and Public Policy. 
 {: .fs-6 .fw-300 }
 
-<img src="/assets/images/headshot_piaArce.jpeg" onmouseover="this.src='assets/images/ilikehike1.jpg';" onmouseout="this.src='/assets/images/headshot_piaArce.jpeg';" class="wrapped-float rounded"/>
+<img src="/assets/images/headshot_piaArce.jpeg" onmouseover="this.src='assets/images/ilikehike1.jpeg';" onmouseout="this.src='/assets/images/headshot_piaArce.jpeg';" class="wrapped-float rounded"/>
 
 I created this website so you can know me better. In [About/CV](/about-cv) you will find some information about my background, work, and professional interests. In [Resources](/resources) you will find different scripts and documents for data analysis that I have created either for my previous jobs or for practicing my skills. In [Posts](/posts)  you can find links to podcasts, articles, and other interesting and fun external sources. 
 
