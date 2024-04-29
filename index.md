@@ -1,4 +1,4 @@
----
+perti---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
@@ -12,7 +12,7 @@ nav_order: 1
 Hi! I'm Pia (She/Her), welcome to my website! 
 {: .fs-6 .fw-300 }
 
-I am an Economist and Consultant with an M.Sc. in Economics. My areas of interest are Government advisory, Private Economic Consultancy, Health, Employment, and Public Policy. 
+I am an Economist and Consultant with an M.Sc. in Economics. My areas of expertise are Government advisory, Health, Employment, and Public Policy. 
 {: .fs-6 .fw-300 }
 
 <img src="/assets/images/headshot_piaArce.jpeg" onmouseover="this.src='assets/images/ilikehike1.jpeg';" onmouseout="this.src='/assets/images/headshot_piaArce.jpeg';" class="wrapped-float rounded"/>
