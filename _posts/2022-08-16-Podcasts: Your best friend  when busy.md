@@ -1,4 +1,4 @@
-If you, like me, love to stay informed about international news and find Twitter a little bit too much (for your mental health), then you might want to listen to some of these podcasts:
+If you, like me, love to stay informed about international news and find X (ex-Twitter) a little bit too much (for your mental health), then you might want to listen to some of these podcasts:
 
 - **Pod Save the world**: Excellent podcast about US foreign policy. Tommy Vietor and Ben Rhodes are hilarious. 
 
@@ -10,4 +10,6 @@ If you, like me, love to stay informed about international news and find Twitter
  
 - **EU Confidential - Politico**: weekly 30-minute podcast with Europe news. 
  
-- **Today Explained**: Eclectic variety of topics to detangle in 30 minutes.     
+- **Today Explained**: Eclectic variety of topics to detangle in 30 minutes.
+
+  I find them super usefull  for a quick update. 
